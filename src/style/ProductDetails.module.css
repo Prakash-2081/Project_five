@@ -1,0 +1,23 @@
+.product1 {
+    
+    position: absolute;
+    top: -33%;
+    left: 10%;
+    width: 300px;
+    height: 511px;
+    background: rgba(0, 0, 0, 0.1);
+    border-radius: 21px;
+    transform: rotate(40deg);
+    
+  }
+.product2 {
+    position: absolute;
+    right: 10%;
+    bottom: -25%;
+    width: 300px;
+    height: 500px;
+    background: rgba(0, 0, 0, 0.1);
+    border-radius: 21px;
+    transform: rotate(40deg);
+  }
+   

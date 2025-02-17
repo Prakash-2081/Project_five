@@ -1,0 +1,26 @@
+.card_background1,.card_background2,.card_background3{
+    background-size: cover;
+    background-position: center;
+    
+}
+.card_background1{
+    background-image: url('https://getbootstrap.com/docs/5.3/examples/features/unsplash-photo-1.jpg');
+    
+}
+.card_background2{
+    background-image: url('https://getbootstrap.com/docs/5.3/examples/features/unsplash-photo-2.jpg');
+    
+}.card_background3{
+    background-image: url('https://getbootstrap.com/docs/5.3/examples/features/unsplash-photo-3.jpg');
+    
+}
+.visibleStyle1{
+    transform: translateY(0);
+    transition:  1.2s ease-in-out;
+    opacity: 1;
+}
+.visibleStyle2{
+    transform: translateY(150px);
+
+    opacity: 0;
+}
